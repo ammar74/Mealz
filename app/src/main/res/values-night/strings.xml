@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="category_image">category Image</string>
+    <string name="Category_name">Name</string>
+    <string name="Category_description">Description</string>
+</resources>
